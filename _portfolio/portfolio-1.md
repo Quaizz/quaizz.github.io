@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I have condifence in my design of stratgies so I follow the signal of my strategies to make personal investment in the Chinese stock market, and here is the demonstratino of the return of my portfolio, which would be updated on a monthly basis.
 
 
 ### Monthly Summary of Return
