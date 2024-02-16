@@ -13,28 +13,28 @@ Here is the curve of the returns. Suppose you start at 100, and you calculate th
 
 ### Monthly Summary of Return
 
-| Time | Return of my portfolio | Return of the Index |
+| Time | Return of my portfolio | Return of the Shanghai Stock Index |
 |:--------|:-------:|--------:|
-| May 2022   | cell2   | cell3   |
-| Jun 2022   | cell5   | cell6   |
-| Jul 2022   | cell5   | cell6   |
-| Aug 2022   | cell5   | cell6   |
-| Sep 2022   | cell5   | cell6   |
-| Oct 2022   | cell5   | cell6   |
-| Nov 2022   | cell5   | cell6   |
-| Dec 2022   | cell5   | cell6   |
-| Jan 2023   | cell5   | cell6   |
-| Feb 2023   | cell5   | cell6   |
-| Mar 2023   | cell5   | cell6   |
-| Apr 2023   | cell5   | cell6   |
-| May 2023   | cell2   | cell3   |
-| Jun 2023   | cell5   | cell6   |
-| Jul 2023   | cell5   | cell6   |
-| Aug 2023   | cell5   | cell6   |
-| Sep 2023   | cell5   | cell6   |
-| Oct 2023   | cell5   | cell6   |
-| Nov 2023   | cell5   | cell6   |
-| Dec 2023   | cell5   | cell6   |
-| Jan 2024   | cell5   | cell6   |
+| May 2022   | 5.73%   | 3.26%   |
+| Jun 2022   | 9.96   | 6.66   |
+| Jul 2022   | 9.03   | -4.28   |
+| Aug 2022   | 1.81   | -1.57   |
+| Sep 2022   | 1.15   | -5.55   |
+| Oct 2022   | 6.50   | -4.33   |
+| Nov 2022   | 13.68   | 8.91   |
+| Dec 2022   | -0.16   | -1.97   |
+| Jan 2023   | 10.17   | 5.39   |
+| Feb 2023   | 5.75   | 0.74   |
+| Mar 2023   | -2.23   | -0.21   |
+| Apr 2023   | -3.06   | 1.54   |
+| May 2023   | 0.58   | -3.57   |
+| Jun 2023   | 6.48   | -0.08   |
+| Jul 2023   | 5.14   | 2.78   |
+| Aug 2023   | -1.46   | -5.20   |
+| Sep 2023   | 6.26   | -0.30   |
+| Oct 2023   | 2.38   | -2.95   |
+| Nov 2023   | 5.23   | 0.36   |
+| Dec 2023   | 0.43   | -1.81   |
+| Jan 2024   | -12.42   | -6.27   |
 |=============================|
 
