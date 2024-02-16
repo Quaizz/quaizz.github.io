@@ -6,7 +6,7 @@ collection: portfolio
 
 I have condifence in my design of stratgies so I follow the signal of my strategies to make personal investment in the Chinese stock market, and here is the demonstratino of the return of my portfolio, which would be updated on a monthly basis.
 
-Here is the curve of the returns.
+Here is the curve of the returns. Suppose you start at 100, and you calculate the net worth of the broker account each day, and the cumulating return can be presented as (net worth -100)%.
 
 ![Editing a markdown file for a talk](/images/return.png)
 
