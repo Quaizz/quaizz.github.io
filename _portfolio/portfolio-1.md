@@ -32,5 +32,5 @@ I have condifence in my design of stratgies so I follow the signal of my strateg
 | Nov 2023   | cell5   | cell6   |
 | Dec 2023   | cell5   | cell6   |
 | Jan 2024   | cell5   | cell6   |
-
+|=============================|
 
