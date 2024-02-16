@@ -16,7 +16,6 @@ I have condifence in my design of stratgies so I follow the signal of my strateg
 | Jul 2022   | cell5   | cell6   |
 | Aug 2022   | cell5   | cell6   |
 | Sep 2022   | cell5   | cell6   |
-| Sep 2022   | cell5   | cell6   |
 | Oct 2022   | cell5   | cell6   |
 | Nov 2022   | cell5   | cell6   |
 | Dec 2022   | cell5   | cell6   |
