@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yuhuang"
+  pronouns         : # example: "he/his"  
+  bio              : "Reproducibility is a treasure"
+  location         : "New York"
+  employer         : "Columbia University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yc4303@columbia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
