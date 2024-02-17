@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year student at MS in Financial Engineering at Columbia University. I am interested in unraveling the mystery of the financial market and developing solutions with reproducibility and interpretability. I have had multiple internship experiences at different companies and gained substantial experience in quantitative research and wealth management, especilly the stock selection strategy. 
 
-Some intersting things to do: watch Lana Del Rey's concert, Lorde's concert(better without the thrid album), fly on an Airbus A340, take every metro line in Shanghai and Beijing, read love in the time of cholera, and most importantly, spend every single day with sincerity and enthusiasm.
+Some intersting things to do: watch Lana Del Rey's concert, Lorde's concert (better without the thrid album), fly on an Airbus A340, take every metro line in Shanghai and Beijing, read love in the time of cholera, and most importantly, spend every single day with sincerity and enthusiasm.
 
 About the website
 =====
