@@ -13,9 +13,9 @@ Here is the curve of the returns. Suppose you start at 100, and you calculate th
 
 ### Monthly Summary of Return
 
-| Time | Return of my portfolio | Return of the Shanghai Stock Index |
-|:--------|:-------:|--------:|
-| May 2022   | 5.73%   | 3.26%   |
+| Time | Return of my portfolio(%) | Return of the Shanghai Stock Index(%) |
+|:--------|:-------:|:--------:|
+| May 2022   | 5.73   | 3.26   |
 | Jun 2022   | 9.96   | 6.66   |
 | Jul 2022   | 9.03   | -4.28   |
 | Aug 2022   | 1.81   | -1.57   |
