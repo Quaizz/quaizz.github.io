@@ -38,5 +38,6 @@ Here is the curve of the returns. Suppose you start at 100, and you calculate th
 | Jan 2024   | -12.42   | -6.27   |
 | Feb 2024   | -2.16   | +8.13   |
 | Mar 2024   | +7.01   | +0.86   |
+| Apr 2024   | +2.19   | +2.09   |
 |=============================|
 
