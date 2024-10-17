@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Returns"
-excerpt: "Presentation of the return of the investmnet<br/><img src='/images/return.png'>"
+excerpt: "Presentation of the return of the investmnet<br/><img src='/images/image.png'>"
 collection: portfolio
 ---
 
