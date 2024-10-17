@@ -8,7 +8,7 @@ I have condifence in my design of stratgies so I follow the signal of my strateg
 
 Here is the curve of the returns. Suppose you start at 100, and you calculate the net worth of the broker account each day, and the cumulating return can be presented as (net worth -100)%.
 
-![Editing a markdown file for a talk](/images/download.png)
+![Editing a markdown file for a talk](/images/image.png)
 
 
 ### Monthly Summary of Return
