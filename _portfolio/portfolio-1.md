@@ -8,7 +8,53 @@ I have condifence in my design of stratgies so I follow the signal of my strateg
 
 Here is the curve of the returns. Suppose you start at 100, and you calculate the net worth of the broker account each day, and the cumulating return can be presented as (net worth -100)%.
 
-![Editing a markdown file for a talk](/images/portfolio_complete_report.pdf)
+
+
+## Performance Summary
+
+![Cumulative Returns and Drawdowns](/images/cumulative_return_drawdown.png)
+
+My portfolio has achieved a **[total return]%** since inception, with an annualized return of **[annual]%**. The maximum drawdown experienced was **[max_dd]%** during **[drawdown period]**.
+
+## Key Performance Metrics
+
+| Metric | Value |
+|--------|-------|
+| Total Return (%) | [total_return] |
+| Annualized Return (%) | [annualized_return] |
+| Annualized Volatility (%) | [annualized_volatility] |
+| Sharpe Ratio | [sharpe_ratio] |
+| Sortino Ratio | [sortino_ratio] |
+| Maximum Drawdown (%) | [max_drawdown] |
+| Win Rate (%) | [win_rate] |
+| Average Win (%) | [average_win] |
+| Average Loss (%) | [average_loss] |
+| Profit Factor | [profit_factor] |
+
+## Monthly Performance Heatmap
+
+![Monthly Returns Heatmap](./portfolio_analysis/monthly_returns_heatmap.png)
+
+
+## Annual Returns
+
+![Yearly Performance](./portfolio_analysis/yearly_performance.png)
+
+
+## Return Distribution Analysis
+
+![Daily Returns Distribution](./portfolio_analysis/daily_returns_distribution.png)
+
+
+## Market Volatility and Rolling Performance
+
+![Rolling Metrics](./portfolio_analysis/rolling_metrics.png)
+
+
+## Drawdown Analysis
+
+![Drawdown Analysis](./portfolio_analysis/drawdown_analysis.png)
+
 
 
 ### Monthly Summary of Return
