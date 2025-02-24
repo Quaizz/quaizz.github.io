@@ -33,27 +33,27 @@ My portfolio has achieved a **[153.38]%** since inception, with an annualized re
 
 ## Monthly Performance Heatmap
 
-![Monthly Returns Heatmap](./portfolio_analysis/monthly_returns_heatmap.png)
+![Monthly Returns Heatmap](/images/monthly_returns_heatmap.png)
 
 
 ## Annual Returns
 
-![Yearly Performance](./portfolio_analysis/yearly_performance.png)
+![Yearly Performance](/images/yearly_performance.png)
 
 
 ## Return Distribution Analysis
 
-![Daily Returns Distribution](./portfolio_analysis/daily_returns_distribution.png)
+![Daily Returns Distribution](/images/daily_returns_distribution.png)
 
 
 ## Market Volatility and Rolling Performance
 
-![Rolling Metrics](./portfolio_analysis/rolling_metrics.png)
+![Rolling Metrics](/images/rolling_metrics.png)
 
 
 ## Drawdown Analysis
 
-![Drawdown Analysis](./portfolio_analysis/drawdown_analysis.png)
+![Drawdown Analysis](/images/drawdown_analysis.png)
 
 
 
