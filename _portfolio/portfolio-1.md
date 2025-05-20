@@ -95,5 +95,8 @@ My portfolio has achieved a **[170.60]%** since inception, with an annualized re
 | Dec 2024   | -1.67  | 0.76   |
 | Jan 2025   | 5.84   | -3.02   |
 | Feb 2025   | 0.4   | 2.16   |
+| Mar 2025   | 3.52   | 0.45   |
+| Apr 2025   | 2.75   | -1.70   |
+
 |=============================|
 
