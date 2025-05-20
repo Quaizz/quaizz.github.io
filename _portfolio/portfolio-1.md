@@ -14,21 +14,21 @@ Here is the curve of the returns. Suppose you start at 100, and you calculate th
 
 ![Cumulative Returns and Drawdowns](/images/cumulative_return_drawdown.png)
 
-My portfolio has achieved a **[154.40]%** since inception, with an annualized return of **[42.15]%**. The maximum drawdown experienced was **[33.85]%** during **[2024]**.
+My portfolio has achieved a **[170.60]%** since inception, with an annualized return of **[42.31]%**. The maximum drawdown experienced was **[33.85]%** during **[2024]**.
 
 ## Key Performance Metrics
 
 | Metric | Value |
 |--------|-------|
-| Total Return (%) | [154.40] |
-| Annualized Return (%) | [42.15] |
-| Annualized Volatility (%) | [24.46] |
-| Sharpe Ratio | [1.60] |
-| Sortino Ratio | [2.09] |
+| Total Return (%) | [170.60] |
+| Annualized Return (%) | [42.31] |
+| Annualized Volatility (%) | [24.70] |
+| Sharpe Ratio | [1.61] |
+| Sortino Ratio | [2.02] |
 | Maximum Drawdown (%) | [33.85] |
-| Win Rate (%) | [57.40] |
-| Average Win (%) | [1.19] |
-| Average Loss (%) | [-1.11] |
+| Win Rate (%) | [57.81] |
+| Average Win (%) | [1.09] |
+| Average Loss (%) | [-1.13] |
 | Profit Factor | [1.32] |
 
 ## Monthly Performance Heatmap
