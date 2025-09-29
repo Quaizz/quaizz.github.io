@@ -26,10 +26,10 @@ My portfolio has achieved a **[223.63]%** since inception, with an annualized re
 | Sharpe Ratio | [1.80] |
 | Sortino Ratio | [2.23] |
 | Maximum Drawdown (%) | [33.85] |
-| Win Rate (%) | [58.44] |
-| Average Win (%) | [1.03] |
-| Average Loss (%) | [-1.08] |
-| Profit Factor | [1.36] |
+| Win Rate (%) The percentage of trading days where you made money (positive returns). | [58.44] |
+| Average Win (%) The average size of your gains on winning days.| [1.03] |
+| Average Loss (%) The average size of your loss on losing days. | [-1.08] |
+| Profit Factor  For every dollar you lose, you make $1.36 in profits.| [1.36] |
 
 ## Monthly Performance Heatmap
 
